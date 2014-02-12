@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\Desktop\just for test\Train\Train\bin\Debug\Train.exe
+C:\Users\TOSHIBA\Desktop\just for test\Train\Train\bin\Debug\Train.pdb
+C:\Users\TOSHIBA\Desktop\just for test\Train\Train\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\just for test\Train\Train\obj\x86\Debug\Train.Form1.resources
+C:\Users\TOSHIBA\Desktop\just for test\Train\Train\obj\x86\Debug\Train.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\just for test\Train\Train\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TOSHIBA\Desktop\just for test\Train\Train\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TOSHIBA\Desktop\just for test\Train\Train\obj\x86\Debug\Train.exe
+C:\Users\TOSHIBA\Desktop\just for test\Train\Train\obj\x86\Debug\Train.pdb
